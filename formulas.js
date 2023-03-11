@@ -127,6 +127,15 @@ function Fibonacci(numero_1,numero_2) {
 
 
 
+
+
+//-----------------------------------------------------
+
+
+
+
+
+
 // 5) Escreva um programa que inverta os caracteres de um string.
 // irei usar um exemplo com a variavel A
 
@@ -165,3 +174,5 @@ return Result
 
 
 console.log(Inversao(A))
+
+//FINAL 
